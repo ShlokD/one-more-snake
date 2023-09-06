@@ -1,3 +1,3 @@
-# Flighty Mango
+# One More Snake
 
-Preact + Vite + Eslint + Prettier + TailwindCSS
+Implementation of Snake in Preact
